@@ -1,3 +1,4 @@
+cd /usr/local/chatgpt-api-proxy
 yum install -y python3
 python3 -m venv venv
 source venv/bin/activate
